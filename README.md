@@ -18,14 +18,6 @@ Aplikasi ini dibuat untuk memenuhi tugas Pemrograman Web (Pertemuan 6). Program 
 ├── script.js    # Logika percabangan dan perulangan
 └── README.md    # Dokumentasi proyek
 ```
-
-## Cara Menjalankan
-
-1. Clone atau download repository ini.
-2. Buka file `index.html` menggunakan browser (cukup double-click).
-3. Masukkan nilai angka pada kolom yang tersedia, lalu klik **Proses Nilai**.
-4. Klik **Tampilkan daftar nilai kelas** untuk melihat rekapitulasi nilai.
-
 ## Penjelasan Kode
 
 ### 1. Percabangan (`script.js`)
